@@ -2,7 +2,7 @@ import os
 import csv
 
 # Path to collect data from the PyBank folder
-pybank_csv = os.path.join('..', 'PyBank', 'budget_data.csv')
+pybank_csv = os.path.join('..', 'PyBank', 'Resources', 'budget_data.csv')
 
 # Lists to store data
 total_months = 0
